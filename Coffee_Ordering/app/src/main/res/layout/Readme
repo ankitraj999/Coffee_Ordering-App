@@ -1,0 +1,7 @@
+# Layout xml file
+
+It is a very simple app with one acitivity 
+
+#content_main.xml
+This file contain xml code for the coffee ordering app which containg various views and button and bill is generated 
+after processing of the data on the same page.
